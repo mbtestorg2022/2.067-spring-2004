@@ -8,20 +8,212 @@ uid: 72dd8a48-f5e6-747c-6be1-d88bd158945a
 
 NOTE: Only the acoustics component is available on this site. The structural dynamics component has not yet been incorporated into OCW.
 
-| LEC # | TOPICS | KEY DATES |
-| {{< td-colspan 4 >}}**Structural Dynamics**{{< /td-colspan >}} ||||
-| 1-13 | Structural Dynamics |  |
-| {{< td-colspan 4 >}}**Acoustics**{{< /td-colspan >}} ||||
-| 14 | Introduction  {{< br >}}  {{< br >}}The Acoustic Wave Equation |  |
-| 15 | Helmholtz Equation  {{< br >}}  {{< br >}}Plane Waves  {{< br >}}  {{< br >}}Wavenumber Representation |  |
-| 16 | Radiation from Infinite Plate  {{< br >}}  {{< br >}}2-d Wavenumber Space  {{< br >}}  {{< br >}}Spherical Waves from Point Source |  |
-| 17 | Directivity Function  {{< br >}}  {{< br >}}Radiation from Baffled Rectangular Piston |  |
-| 18 | Radiation from Planar Sources |  |
-| 19 | Radiation from Elastic Plates | Problem set 1 due |
-| 20 | Quiz |  |
-| 21 | Spherical Waves  {{< br >}}  {{< br >}}Spherical Harmonics |  |
-| 22 | Spherical Multipole Radiation | Problem set 2 due |
-| 23 | Scattering from Spheres |  |
-| 24 | Cylindrical Waves | Problem set 3 due |
-| 25 | Helical Waves |  |
-| 26 | Radiation from Cylinders | Problem set 4 due
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Structural Dynamics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-13
+{{< tdclose >}}
+{{< tdopen >}}
+Structural Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Acoustics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction  
+  
+The Acoustic Wave Equation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Helmholtz Equation  
+  
+Plane Waves  
+  
+Wavenumber Representation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation from Infinite Plate  
+  
+2-d Wavenumber Space  
+  
+Spherical Waves from Point Source
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Directivity Function  
+  
+Radiation from Baffled Rectangular Piston
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation from Planar Sources
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation from Elastic Plates
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Spherical Waves  
+  
+Spherical Harmonics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Spherical Multipole Radiation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Scattering from Spheres
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Cylindrical Waves
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Helical Waves
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation from Cylinders
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

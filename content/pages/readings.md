@@ -11,20 +11,212 @@ NOTE: Only the acoustics component is available on this site. The structural dyn
 The chapters referred to in the table below are from the text: Williams, E. G. _Fourier Acoustics: Sound Radiation and Nearfield Acoustical Holography_. Burlington, MA: Academic Press, 1999. ISBN: 9780127539607. (Background Reading: Section 1)  
  
 
-| SES # | TOPICS | READINGS |
-| {{< td-colspan 4 >}}**Structural Dynamics**{{< /td-colspan >}} ||||
-| 1-13 | Structural Dynamics |  |
-| {{< td-colspan 4 >}}**Acoustics**{{< /td-colspan >}} ||||
-| 14 | Introduction  {{< br >}}  {{< br >}}The Acoustic Wave Equation | Chap. 2.1-2.3 |
-| 15 | Helmholtz Equation  {{< br >}}  {{< br >}}Plane Waves  {{< br >}}  {{< br >}}Wavenumber Representation | Chap. 2.4-2.6 |
-| 16 | Radiation from Infinite Plate  {{< br >}}  {{< br >}}2-d Wavenumber Space  {{< br >}}  {{< br >}}Spherical Waves from Point Source | Chap. 2.7-2.8 |
-| 17 | Directivity Function  {{< br >}}  {{< br >}}Radiation from Baffled Rectangular Piston | Chap. 2.11.1-2.11.5 |
-| 18 | Radiation from Planar Sources | Chap. 2.11.6 and 2.12-2.13 |
-| 19 | Radiation from Elastic Plates | Chap. 2.14-2.15 |
-| 20 | Quiz |  |
-| 21 | Spherical Waves  {{< br >}}  {{< br >}}Spherical Harmonics | Chap. 6.1-6.4 |
-| 22 | Spherical Multipole Radiation | Chap. 6.5-6.6 |
-| 23 | Scattering from Spheres | Chap. 6.1 |
-| 24 | Cylindrical Waves | Chap. 4.1-4.3 |
-| 25 | Helical Waves | Chap. 4.4 |
-| 26 | Radiation from Cylinders | Chap. 4.5-4.7
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Structural Dynamics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-13
+{{< tdclose >}}
+{{< tdopen >}}
+Structural Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Acoustics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction  
+  
+The Acoustic Wave Equation
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 2.1-2.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Helmholtz Equation  
+  
+Plane Waves  
+  
+Wavenumber Representation
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 2.4-2.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation from Infinite Plate  
+  
+2-d Wavenumber Space  
+  
+Spherical Waves from Point Source
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 2.7-2.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Directivity Function  
+  
+Radiation from Baffled Rectangular Piston
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 2.11.1-2.11.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation from Planar Sources
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 2.11.6 and 2.12-2.13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation from Elastic Plates
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 2.14-2.15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Spherical Waves  
+  
+Spherical Harmonics
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 6.1-6.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Spherical Multipole Radiation
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 6.5-6.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Scattering from Spheres
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 6.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Cylindrical Waves
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 4.1-4.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Helical Waves
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 4.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation from Cylinders
+{{< tdclose >}}
+{{< tdopen >}}
+Chap. 4.5-4.7
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
