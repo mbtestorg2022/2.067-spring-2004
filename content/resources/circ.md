@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/417882cf73a2a82b5864f4e8dcf6cc9e_circ.m
+file_type: text/plain
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+parent_uid: 4e7bbb40-e87e-9225-6de9-e69c82d3912b
+resourcetype: Other
+title: circ.m
+uid: 417882cf-73a2-a82b-5864-f4e8dcf6cc9e
+---
